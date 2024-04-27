@@ -1,4 +1,4 @@
-package skjetne.simendemo;
+package skjetne.simendemo.model;
 
 public class Grade {
 
