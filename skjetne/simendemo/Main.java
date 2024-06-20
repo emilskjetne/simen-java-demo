@@ -14,9 +14,9 @@ public class Main {
         System.out.println("Hello world!\nPlease enter your grade: ");
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-
         String line = reader.readLine();
 
+        //snipersmurf
         //Parsing: Transforming one format to another
         //Here someone has done the parsing for us. So we use the Integer.parseInt() method
         //But data parsing is a common task in programming
